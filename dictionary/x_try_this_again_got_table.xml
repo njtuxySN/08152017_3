@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="got_table" max_length="40" name="x_try_this_again_got_table" type="collection"/>
+</database>
