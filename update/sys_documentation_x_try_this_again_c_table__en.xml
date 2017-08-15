@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="c_table" language="en" table="x_try_this_again_c_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>c_table</label>
+            <language>en</language>
+            <name>x_try_this_again_c_table</name>
+            <plural>c_tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-15 21:05:26</sys_created_on>
+            <sys_id>8ce57826e5200300aef70f46886a2b26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>c_table</sys_name>
+            <sys_package display_value="try this again" source="x_try_this_again">fb94f8e2e5200300aef70f46886a2b67</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="try this again">fb94f8e2e5200300aef70f46886a2b67</sys_scope>
+            <sys_update_name>sys_documentation_x_try_this_again_c_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-15 21:05:26</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
